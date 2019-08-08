@@ -27,4 +27,5 @@
 ---
 ## License
 ---
+[MIT License](https://github.com/smartbabble/smartbabble.github.io/blob/about-me/LICENSE)
 ---
