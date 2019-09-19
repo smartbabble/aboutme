@@ -9,6 +9,8 @@
 ---
 ## 个人博客
 ---
+[![][badges: travis ci]][links: travis ci] [![][badges: github issues open]][links: github issues open] [![][badges: github issues closed]][links: github issues closed]
+
 ---
 ## 个人经历
 ---
@@ -28,6 +30,8 @@
 ## 系统性成长
 ---
 ---
+
+
 ## License
 ---
 [MIT License](LICENSE)
